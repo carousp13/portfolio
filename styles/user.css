@@ -9,7 +9,7 @@
 .user picture{
     width: 200px;
     height: 200px;
-    border-radius: 12px;
+    border-radius: 100px;
     box-shadow: var(--shadow-image);
     margin-top: -100px;
 }
@@ -19,7 +19,7 @@
     height: 100%;
     object-fit: cover;
 
-    border-radius: 12px;
+    border-radius: 100px;
 }
 
 .user__content{
@@ -37,3 +37,4 @@
     font-size: 18px;
     font-weight: 300;
 }
+
